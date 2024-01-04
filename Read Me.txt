@@ -1,0 +1,39 @@
+-----------------------------------------------------------------------------------------
+
+                                    Lets Write
+
+-----------------------------------------------------------------------------------------
+
+
+1.Place code inside root directory(C://XAMPP/htdocs).
+2.Import letswrite.sql file to the database.
+3.Run the frontend http://localhost/LetsWrite/letswrite/index.php (frontend)
+4.For Login panel http://localhost/LetsWrite/letswrite/admin/index.php
+
+
+*****************************************************************************************
+
+                            DB_SERVER= localhost
+                            DB_USER= Lets Write Admin
+                            DB_PASS= AM]-icdk-c]Q(9*H
+                            DB_NAME= letswrite
+
+#########################################################################################
+
+                            credential for admin panel:
+                            username: admin
+                            Password : Test@123
+
+¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬
+
+                            credential for Sub-admin panel:
+                            username: subadmin
+                            Password : one
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+                            credential for author panel:
+                            username: chrisdenzel
+                            Password : one
+
+_________________________________________________________________________________________
